@@ -14,7 +14,6 @@ Name                                   | Limitations                            
 -------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------
 Background: Monster Hunter             | Everywhere. Would not recommend for lower-leveled characters.                                      | <https://www.dandwiki.com/wiki/Monster_Hunter_(5e_Background)>
 Background: Sadistic Assassin          | Everywhere. Please be considerate of those with weak stomachs.                                     | <https://www.dandwiki.com/wiki/Sadistic_Assassin_(5e_Background)>
-Background: Split Personality          | Limit to 2 or 3 personalities, or it will be a pain to keep track of as the DM.                    |
 Background: Split Personality          | Limit to 2 or 3 personalities, or it will be a pain to keep track of as the DM.                    | <https://www.dandwiki.com/wiki/Split_Personality_(5e_Background)>
 Class: Death's Incarnate               | Currently does not fit with any campaign lore.                                                     | <https://www.dandwiki.com/wiki/Death%27s_Incarnate_(5e_Class)>
 Class: Dragon Rider (2nd Variant)      | Everywhere. Keep in mind how NPCs would react to a dragon.                                         | <https://www.dandwiki.com/wiki/Dragon_Rider,_2nd_Variant_(5e_Class)>
