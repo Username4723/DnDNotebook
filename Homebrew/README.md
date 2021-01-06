@@ -69,6 +69,7 @@ Feat: Full Counter                | See the Balance Warning.                    
 Feat: Hemorrhage                  | Leaving permanent injuries that damage over time is not inline with 5e.                               | <https://www.dandwiki.com/wiki/Hemorrhage_(5e_Feat)>
 Feat: Master of a Thousand Cuts   | Leaving permanent injuries that damage over time is not inline with 5e.                               | <https://www.dandwiki.com/wiki/Master_of_a_Thousand_Cuts_(5e_Feat)>
 Feat: Raven Wings                 | More powerful than Magic Initate as Fly is a 3rd-level spell.                                         | <https://www.dandwiki.com/wiki/Raven_Wings_(5e_Feat)>
+Feat: Spirit Firearms             | Would be better as an item. Poorly worded and not edited.                                             | <https://www.dandwiki.com/wiki/Spirit_Firearms_(5e_Feat)>
 Race: Aligrine                    | Deprecated by TCoE Racial Customization on the Aarakocra race.                                        | <https://www.dandwiki.com/wiki/Aligrine_(5e_Race)>
 Race: Chaosborn                   | Annoying to keep track of alongside a pinch of being too powerful.                                    | <https://www.dandwiki.com/wiki/Chaosborn_(5e_Race)>
 Race: Satyr                       | System equivalent available.                                                                          | <https://www.5esrd.com/database/race/satyr>
