@@ -1,4 +1,8 @@
-# Internal
+# Homebrew Compilation
+
+This folder contains every bit of public homebrew ran by me for use in my campaigns, in addition to bits and pieces I've found while playing. Anything in the Rejected section is not allowed in campaigns where I am the DM due to reasons stated in the table.
+
+# Self-Written
 
 Type  | Name          | Campaign Worlds Allowed
 ----- | ------------- | ----------------------------------------------------------------------
