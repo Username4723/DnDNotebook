@@ -76,6 +76,7 @@ Feat: Raven Wings                 | More powerful than Magic Initate as Fly is a
 Feat: Spirit Firearms             | Would be better as an item. Poorly worded and not edited.                                             | <https://www.dandwiki.com/wiki/Spirit_Firearms_(5e_Feat)>
 Race: Aligrine                    | Deprecated by TCoE Racial Customization on the Aarakocra race.                                        | <https://www.dandwiki.com/wiki/Aligrine_(5e_Race)>
 Race: Chaosborn                   | Annoying to keep track of alongside a pinch of being too powerful.                                    | <https://www.dandwiki.com/wiki/Chaosborn_(5e_Race)>
+Race: Embodied                    | Too many attacks and disables for a race. Effectively has an AOE Crown of Madness.                    | <https://www.dandwiki.com/wiki/Embodied_Mouther_(5e_Race)>
 Race: Satyr                       | System equivalent available.                                                                          | <https://www.5esrd.com/database/race/satyr>
 Race: Satyr                       | System equivalent available.                                                                          | <https://www.dandwiki.com/wiki/Satyr_(5e_Race)>
 Race: Vampire                     | Based on Vampire and not Vampire Spawn.                                                               | <https://www.dandwiki.com/wiki/Vampire_(5e_Race)>
