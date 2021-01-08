@@ -60,6 +60,8 @@
 - Amari
 - Selanar
 - Charlys
+- Remi
+- Finley
 
 # Male
 
@@ -73,6 +75,10 @@
 - Elas
 - Krali
 - Riamar
+- Tanyl
+- Vicnos
+- Nycotar
+- Alfaen
 
 # Female
 
@@ -87,6 +93,8 @@
 - Sara
 - Elidyr
 - Cabi
+- Nalara
+- Crislila
 
 # Neutral
 
@@ -96,6 +104,11 @@
 - Naevys
 - Farryn
 - Blue
-- Remi
 - Aglone
 - Royal
+- Denny
+- Ash
+- Jaden
+- Cory
+- Dallas
+- Riley
