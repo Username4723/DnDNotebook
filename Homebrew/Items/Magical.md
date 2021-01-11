@@ -78,9 +78,9 @@ As an action, the wearer may expend one charge to attempt to charm a nearby pers
 
 A small pair of glasses perfectly fit for your vision. The wearer gains proficiency in perception. If already proficient, it grants expertise instead. If you already have expertise, er... Advantage on Perception checks relying on Sight. In addition, the wearer gains Truesight out to a distance of 300 feet.
 
-The glasses have 2 Charges. As an action, you may expend 1 Charge to cast any of the following spells (DC 18): Mind Blank, Zone of Truth, or Suggestion. As an alternative, you may use an Action to rip a memory from the target's mind, optionally erasing this in the progess (DC 20 Wis to resist). On a successful save, the creature is immune to the effects of the glasses for a week. You learn whether the target believes you are an imposter, and what the best way to convince them otherwise would be. Using the Glasses on the original rips a memory of an event from them instead, provided the wielder knows when and where the event took plae. A Remove Curse, Greater Restoration, or similar spell ends this effect.
+The glasses have 2 Charges. As an action, you may expend 1 Charge to cast any of the following spells (DC 18): Mind Blank, Zone of Truth, or Suggestion. As an alternative, you may use an Action to rip a memory from the target's mind, optionally erasing this in the progress (DC 20 Wis to resist). On a successful save, the creature is immune to the effects of the glasses for a week. You learn whether the target believes you are an imposter, and what the best way to convince them otherwise would be. Using the Glasses on the original rips a memory of an event from them instead, provided the wielder knows when and where the event took plae. A Remove Curse, Greater Restoration, or similar spell ends this effect.
 
-The glasses regain all charges at Sunrise each day. In addition, the wearer may increase their Dexterity score by 2, to a maximum of 22\. The glasses attempt to decieve the wearer a majority of the time if stolen.
+The glasses regain all charges at Sunrise each day. In addition, the wearer may increase their Dexterity score by 2, to a maximum of 22\. The glasses attempt to deceive the wearer a majority of the time if stolen.
 
 # Silver Dagger (x2) (Requires Attunement) (Cursed):
 
