@@ -35,6 +35,7 @@ Race: Revenant                         | Subject to DM approval on a case-by-cas
 Race: Skeleton                         | Everywhere. Keep in mind how NPCs might react to a skeleton.                                       | <https://www.dandwiki.com/wiki/Skeleton_(5e_Race)>
 Race: Toonkind                         | Dual Planes of Kilyn, Fallen Paradise, My Quiet Corner of the Universe.                            | <https://i.redd.it/muf87sbrqwr21.jpg>
 Multiple: Modern Magic (Retired UA)    | ArcanaxTechxFantasy.                                                                               | <https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf>
+Figher: Berserk                        | Fallen Paradise. Balance is questionable - only permitted due to small party size.                 | <https://www.dandwiki.com/wiki/Berserk_(5e_Subclass)>
 Monk: Way of the Guiding Spirit        | Fallen Paradise, My Quiet Corner of the Universe.                                                  | <https://www.reddit.com/r/UnearthedArcana/comments/hvswpf/monk_way_of_the_guiding_spirit_follow_the/>
 Monk: Way of the Third Eye             | Everywhere.                                                                                        | <https://www.reddit.com/r/UnearthedArcana/comments/hu3j0z/way_of_the_third_eye_monk_a_blind_monk_subclass/>
 Monk: Way of the Waterbender           | Everywhere.                                                                                        | <https://www.dndbeyond.com/subclasses/276143-way-of-the-waterbender>
