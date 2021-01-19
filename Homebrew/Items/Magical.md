@@ -111,3 +111,9 @@ Exactly what it says on the tin.
 A fine blue silk cloak with golden trim in the form of runes.
 
 Once per day, as an Action, the wearer can throw the cloak (20/60ft range) at an enemy for the purpose of restraining or distracting them. When throwing the cloak, make a ranged attack roll against the target. On a success, the target is restrained until they use their Action to make a DC 20 Strength check to escape. When instead distracting a target, the cloak hovers in midair with the purpose to obscure their field of vision until the target uses an Action to dismiss it (DC 17 Dexterity). A distracted creature has disadvantage on attack rolls and saves relying on Sight, and attack rolls against the creature have advantage. A failed throw of the cloak does not consume the cloak's charge.
+
+# Red Yo-Yo (Requires Attunement)
+
+This red yoyo with black spots has a limitless amount of string, which never tangles and can be rewound instantly.
+
+As an action, this yoyo can, within a range of 120ft, be used to block entrances, move objects, or bind people (DC 20 to escape). In addition, Touch spells can be cast through the yoyo, up to a range of 100ft.

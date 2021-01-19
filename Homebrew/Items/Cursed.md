@@ -108,3 +108,43 @@ At a glance, this appears to be a simple +2 AC Pendant. Every few days at Dawn, 
 6. If you agree to sacrifice Celestial and Undead to the dark deity, the pendant offers blessings in battle.
 7. If you take the dark deity as a patron/deity, the pendant offers the promise of power, but is not more specific.
 8. The pendant asks you to devote yourself to the deity in full, and you would gain its full power. If you take Upgrade 8, you are now an NPC.
+
+# Necklace of Fate (Requires Attunement)
+
+This adamantine necklace is normally barely visible - only able to be seen by someone who knows what to look for. The wearer of this artifact may opt to borrow luck from the distant future to take effect in the present.
+
+This necklace possesses one charge, which it regains each day at dawn. When a creature within 300 feet of you makes an attack roll, ability check, saving throw, or rolls for damage, you may use your reaction to force the roll(s), at your discretion, to the minimum, maximum, or average value possible.
+
+The DM may chose to collect on the borrowed luck (optionally with interest) at any time.
+
+# Mithril Dagger (Requires Attunement)
+
+You have a +2 bonus to attack and damage rolls made with this magic weapon. In addition, any attack made with this dagger while attuned has advantange and counts as a critical hit on a 19\. The dagger is also self-cleaning, and any blood that coats it fades within seconds.
+
+This dagger used to belong to a powerful being before it was stolen. Every day at Midnight, the being attempts to Scry the wielder. In addition, blood siphoned from this dagger is used to summon various fiends by the original owner in an attempt to reclaim the dagger.
+
+# Adamantine Ring
+
+When this ring is exposed to blood, it instantaneously expands into a set of +2 Adamantine Plate Armor for the next hour.
+
+This ring acts as a beacon into the Ethereal and Astral planes, drawing all sorts of things to it, ranging from aberrations to deities.
+
+# World Crystal
+
+Each face of this gem acts as a portal to a different plane. As an action, a creature can locate a specific face and instantaneously jump to the plane it represents, bringing the crystal and up to 8 willing targets within 30 feet of them with. The crystal always jumps the target to the most significant location on the target plane.
+
+When a character uses this gem, roll a d20\. On a 1, the gem shatters, expelling shrapnel in a 60 foot radius sphere. Any creature within must make a DC 24 Dexterity saving throw. On a failure, the creature is warped to an inhospitable and unsettled location on a random plane.
+
+# Arcane Printer
+
+Over a minute, this printer can apply a +2 enchant to any nonmagical item, which is removed when the item comes into contact with water. Doing so requires one vial of Mystic Toner, which is traditionally made from ground-up dragon scales, which is fused onto the item with heat and a high-power laser.
+
+Occasionally, the players will be sold gunpowder instead of toner.
+
+# Wildcard (Requires Attunement)
+
+A silver ring with a four-coloured gemstone in the center, which occasionally sparkles with magic.
+
+When the attuned person dies, time rewinds to the moment they first attuned to the wildcard. The color then fades from the ring. As an action, by bringing the ring into contact with a single drop of blood from the target, the wielder may cause them to remember the undone events. This process is time-consuming, though, and the target falls into a coma as they process the events. This coma may be lifted with a Greater Restoration or more powerful spell.
+
+Any other Wildcard wielders remember the actions of the future. In addition, any divination magic draws from the erased timeline, thus occasionally giving false information.
