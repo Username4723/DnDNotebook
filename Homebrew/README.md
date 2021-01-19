@@ -1,6 +1,6 @@
 # Homebrew Compilation
 
-This folder contains every bit of public homebrew ran by me for use in my campaigns, in addition to bits and pieces I've found while playing. Anything in the Rejected section is not allowed in campaigns where I am the DM due to reasons stated in the table.
+This folder contains every bit of public homebrew ran by me for use in my campaigns, in addition to bits and pieces I've found while playing. Anything in the Rejected section is not allowed in campaigns where I am the DM due to reasons stated in the table. UA content is allowed by default, except for Modern Magic and Mystic. See below for conditions.
 
 # Self-Written
 
@@ -22,7 +22,8 @@ Background: Split Personality          | Limit to 2 or 3 personalities, or it wi
 Class: Death's Incarnate               | Currently does not fit with any campaign lore.                                                                                     | <https://www.dandwiki.com/wiki/Death%27s_Incarnate_(5e_Class)>
 Class: Dragon Rider (2nd Variant)      | Everywhere. Keep in mind how NPCs would react to a dragon.                                                                         | <https://www.dandwiki.com/wiki/Dragon_Rider,_2nd_Variant_(5e_Class)>
 Class: Gun Mage                        | ArcanaxTechxFantasy.                                                                                                               | <https://www.dandwiki.com/wiki/Gun_Mage_(5e_Class)>
-Class: State Alchemist                 | Subject to DM approval on a case-by-case basis                                                                                     | <https://www.dandwiki.com/wiki/State_Alchemist_(5e_Class)>
+Class: Mystic                          | Subject to DM approval on a case-by-case basis.                                                                                    | <https://media.wizards.com/2017/dnd/downloads/UAMystic3.pdf>
+Class: State Alchemist                 | Subject to DM approval on a case-by-case basis.                                                                                    | <https://www.dandwiki.com/wiki/State_Alchemist_(5e_Class)>
 Race: Awakened Cat                     | Dual Planes of Kilyn, Fallen Paradise.                                                                                             | <https://homebrewery.naturalcrit.com/share/SJHYdnaiVz>
 Race: Axari                            | Everywhere. However, this is very questionable.I would _highly_ recommend using a Yuan-Ti instead.                                 | <https://www.dandwiki.com/wiki/Axari_(5e_Race)>
 Race: Bunneth                          | Everywhere                                                                                                                         | <https://mydnd.tumblr.com/post/174247219184>
