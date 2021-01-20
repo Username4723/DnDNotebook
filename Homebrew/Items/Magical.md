@@ -123,3 +123,11 @@ Any code created by this magical code wheel can only decoded by its partner. A D
 # Talisman of Souls (x2) (Requires Attunement)
 
 An antique set of talismans traditionally work by lovers. When two creatures are attuned to the talisman, any damage (after resistances) done to one creature is immediately done to the other. In contrast, any healing done to one creature is immediately applied to the other. Once per short rest, when making an attack roll, saving throw, or ability check, each creature may chose to use the modifier of the other, which is added to their current modifier till the start of their next turn.
+
+# Ring of Spell Editing (Requires Attunement)
+
+A gold ring with a neon green gemstone inset.
+
+This ring has three charges. When you cast a spell, you may expend one charge to change, move, or remove one letter in the spell's name, changing the effects accordingly. The DM may decide that a specific edit may increase the spell slot level needed to cast the spell, or declare a specific edit is not possible.
+
+The ring regains 1d3 charges at dawn each day.
