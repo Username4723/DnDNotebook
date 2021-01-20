@@ -131,3 +131,7 @@ A gold ring with a neon green gemstone inset.
 This ring has three charges. When you cast a spell, you may expend one charge to change, move, or remove one letter in the spell's name, changing the effects accordingly. The DM may decide that a specific edit may increase the spell slot level needed to cast the spell, or declare a specific edit is not possible.
 
 The ring regains 1d3 charges at dawn each day.
+
+# Pair of Gloves
+
+The wearer of these gloves may increase their Strength by 2, to a maximum of 22.
