@@ -112,19 +112,9 @@ A fine blue silk cloak with golden trim in the form of runes.
 
 Once per day, as an Action, the wearer can throw the cloak (20/60ft range) at an enemy for the purpose of restraining or distracting them. When throwing the cloak, make a ranged attack roll against the target. On a success, the target is restrained until they use their Action to make a DC 20 Strength check to escape. When instead distracting a target, the cloak hovers in midair with the purpose to obscure their field of vision until the target uses an Action to dismiss it (DC 17 Dexterity). A distracted creature has disadvantage on attack rolls and saves relying on Sight, and attack rolls against the creature have advantage. A failed throw of the cloak does not consume the cloak's charge.
 
-# Red Yo-Yo (Requires Attunement)
-
-This red yoyo with black spots has a limitless amount of string, which never tangles and can be rewound instantly.
-
-As an action, this yoyo can, within a range of 120ft, be used to block entrances, move objects, or bind people (DC 20 to escape). In addition, Touch spells can be cast through the yoyo, up to a range of 100ft.
-
 # Mystic Violin (Requires Attunement)
 
 Music played on this violin can be heard from up to a mile away.
-
-# God Tuner (Requires Attunement by a Spellcaster)
-
-This tuning fork is bound to the divine cosmos. While attuned to it, all Cleric and Paladin spells are considered spells of your class and on your class's spell list. Upon breaking attunement to this item, you forget all spells learned this way. It counts as an associated object for the purpose of Scrying a deity.
 
 # Code Wheel (x2)
 
@@ -133,7 +123,3 @@ Any code created by this magical code wheel can only decoded by its partner. A D
 # Talisman of Souls (x2) (Requires Attunement)
 
 An antique set of talismans traditionally work by lovers. When two creatures are attuned to the talisman, any damage (after resistances) done to one creature is immediately done to the other. In contrast, any healing done to one creature is immediately applied to the other. Once per short rest, when making an attack roll, saving throw, or ability check, each creature may chose to use the modifier of the other, which is added to their current modifier till the start of their next turn.
-
-# Copper Shortsword
-
-Deals 1 damage. Upon exposure to blood under the light of the new moon, the sword temporarily absorbs nearby shadows, turning pitch black. For the next week, the damage changes to 2d6, and you have a +2 to attack and damage rolls made with this magical weapon.
