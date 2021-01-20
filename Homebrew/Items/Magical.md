@@ -117,3 +117,19 @@ Once per day, as an Action, the wearer can throw the cloak (20/60ft range) at an
 This red yoyo with black spots has a limitless amount of string, which never tangles and can be rewound instantly.
 
 As an action, this yoyo can, within a range of 120ft, be used to block entrances, move objects, or bind people (DC 20 to escape). In addition, Touch spells can be cast through the yoyo, up to a range of 100ft.
+
+# Mystic Violin (Requires Attunement)
+
+Music played on this violin can be heard from up to a mile away.
+
+# God Tuner (Requires Attunement by a Spellcaster)
+
+This tuning fork is bound to the divine cosmos. While attuned to it, all Cleric and Paladin spells are considered spells of your class and on your class's spell list. Upon breaking attunement to this item, you forget all spells learned this way. It counts as an associated object for the purpose of Scrying a deity.
+
+# Code Wheel (x2)
+
+Any code created by this magical code wheel can only decoded by its partner. A Dispel Magic spell reveals the original text.
+
+# Talisman of Souls (x2) (Requires Attunement)
+
+An antique set of talismans traditionally work by lovers. When two creatures are attuned to the talisman, any damage (after resistances) done to one creature is immediately done to the other. In contrast, any healing done to one creature is immediately applied to the other. Once per short rest, when making an attack roll, saving throw, or ability check, each creature may chose to use the modifier of the other, which is added to their current modifier till the start of their next turn.
