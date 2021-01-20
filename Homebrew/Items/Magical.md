@@ -133,3 +133,7 @@ Any code created by this magical code wheel can only decoded by its partner. A D
 # Talisman of Souls (x2) (Requires Attunement)
 
 An antique set of talismans traditionally work by lovers. When two creatures are attuned to the talisman, any damage (after resistances) done to one creature is immediately done to the other. In contrast, any healing done to one creature is immediately applied to the other. Once per short rest, when making an attack roll, saving throw, or ability check, each creature may chose to use the modifier of the other, which is added to their current modifier till the start of their next turn.
+
+# Copper Shortsword
+
+Deals 1 damage. Upon exposure to blood under the light of the new moon, the sword temporarily absorbs nearby shadows, turning pitch black. For the next week, the damage changes to 2d6, and you have a +2 to attack and damage rolls made with this magical weapon.
