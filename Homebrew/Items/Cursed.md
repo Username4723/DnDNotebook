@@ -147,4 +147,4 @@ A silver ring with a four-coloured gemstone in the center, which occasionally sp
 
 When the attuned person dies, time rewinds to the moment they first attuned to the wildcard. The color then fades from the ring. As an action, by bringing the ring into contact with a single drop of blood from the target, the wielder may cause them to remember the undone events. This process is time-consuming, though, and the target falls into a coma as they process the events. This coma may be lifted with a Greater Restoration or more powerful spell.
 
-Any other Wildcard wielders remember the actions of the future. In addition, any divination magic draws from the erased timeline, thus occasionally giving false information.
+Any other Wildcard wielders remember the actions of the future. In addition, any divination magic cast by the user will now draw from the erased timeline, thus occasionally giving false information.
