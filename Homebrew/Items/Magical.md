@@ -139,3 +139,7 @@ The wearer of these gloves may increase their Strength by 2, to a maximum of 22.
 # Glasses of Far Sight
 
 As an action, the wearer of these glasses may enhance their sight. For a minute, the wearer's attacks ignore half and tree-fourths cover, and the range of all their weapons is doubled.
+
+# Boots of Metal Detection
+
+Does exactly what it says on the tin. Great for landmines.
