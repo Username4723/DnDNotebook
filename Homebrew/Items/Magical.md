@@ -143,3 +143,7 @@ As an action, the wearer of these glasses may enhance their sight. For a minute,
 # Boots of Metal Detection
 
 Does exactly what it says on the tin. Great for landmines.
+
+# Cloak of Starlight
+
+This cloak leaves afterimages of yourself crafted from starlight. Any attack you hit while wearing this cloak deals an extra 1d6 damage and counts as a Sneak Attack.
