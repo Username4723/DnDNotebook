@@ -21,6 +21,7 @@ Generator | Dungeon & Cities    | <https://watabou.itch.io/>
 Generator | Dungeon             | <https://dungen.app/dungen/>
 Generator | Town                | <https://watabou.itch.io/medieval-fantasy-city-generator>
 Generator | Town                | <http://donjon.bin.sh/fantasy/town/>
+Generator | City                | <https://github.com/ProbableTrain/MapGenerator>
 Generator | Map                 | <https://azgaar.github.io/Fantasy-Map-Generator/>
 Generator | Map                 | <http://www.gozzys.com/>
 Generator | Map                 | <https://github.com/rlguy/FantasyMapGenerator>
