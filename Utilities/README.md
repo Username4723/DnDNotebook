@@ -1,3 +1,5 @@
+# Links
+
 Type      | Name                | Link
 --------- | ------------------- | ------------------------------------------------------------------------------------------------
 Reference | Races               | <https://docs.google.com/spreadsheets/d/1fjnoCiYUCOcrMxffWNwppHfuUDlY1Ae0HQ4t-XCaiPA/edit#gid=0>
@@ -29,3 +31,9 @@ Generator | Map                 | <https://github.com/averrin/mapgen-viewer>
 Generator | House               | <https://www.kassoon.com/dnd/house-map-generator/>
 Avrae     | Commands            | <https://avrae.io/commands>
 Avrae     | Character Sheet     | <https://ghseet2.avrae.io/>
+
+# Credits for Other Files
+
+File       | Source    | Link
+---------- | --------- | ----------------------------------------------------------------
+Names.json | libmapgen | <https://github.com/averrin/libmapgen/blob/master/src/names.cpp>
