@@ -29,6 +29,7 @@ Generator | Map                 | <https://azgaar.github.io/Fantasy-Map-Generato
 Generator | Map                 | <http://www.gozzys.com/>
 Generator | Map                 | <https://github.com/rlguy/FantasyMapGenerator>
 Generator | Map                 | <https://github.com/averrin/mapgen-viewer>
+Generator | Rune                | <https://watabou.itch.io/rune-generator>
 Generator | House               | <https://www.kassoon.com/dnd/house-map-generator/>
 Avrae     | Commands            | <https://avrae.io/commands>
 Avrae     | Character Sheet     | <https://ghseet2.avrae.io/>
