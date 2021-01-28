@@ -94,7 +94,7 @@
 - Elidyr
 - Cabi
 - Nalara
-- Crislila
+- Crilila
 
 # Neutral
 
