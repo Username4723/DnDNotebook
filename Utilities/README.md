@@ -19,6 +19,7 @@ Tokens    | Avatar              | <https://avatarmaker.com/>
 Tokens    | Quick & Easy        | <https://2minutetabletop.com/tokeneditor/>
 Tokens    | Anime-like          | <https://charat.me/en>
 Tokens    | Miniature           | <https://desktophero3d.com/>
+Tokens    | Emblem              | <https://nailek.net/gw2/emblemeditor/>
 Generator | Dungeon & Cities    | <https://watabou.itch.io/>
 Generator | Dungeon             | <https://dungen.app/dungen/>
 Generator | Town                | <https://watabou.itch.io/medieval-fantasy-city-generator>
