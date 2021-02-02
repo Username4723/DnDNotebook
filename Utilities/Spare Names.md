@@ -62,6 +62,8 @@
 - Charlys
 - Remi
 - Finley
+- Alfaen
+- Tanyl
 
 # Male
 
@@ -75,10 +77,8 @@
 - Elas
 - Krali
 - Riamar
-- Tanyl
 - Vicnos
 - Nycotar
-- Alfaen
 
 # Female
 
