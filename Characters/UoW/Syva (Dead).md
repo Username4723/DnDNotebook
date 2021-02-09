@@ -1,20 +1,21 @@
 # General Information
-Name: Syva Tefra
-Age: 18
-Species: Human
-Gender: Female
-Sexual orientation: Bisexual
+
+Trait              | Value
+------------------ | ----------
+Name               | Syva Tefra |
+Age                | 18
+Species            | Human
+Gender             | Female
+Sexual orientation | Bisexual
 
 ## Physical Traits
-Hair: Orange
-Eye color: Grey
-Skin: Tan
-Build: Slim
-Height: 5'2"
-Other Traits:
+
+Hair: Orange Eye color: Grey Skin: Tan Build: Slim Height: 5'2" Other Traits:
+
 - Mute since birth
 
 ## Grudges
+
 - May 21 - Dara for being on the Mountain at the wrong time
 - May 30 - The Tiger (Tailor) for scaring
 - May 30 - Dean Jordan for Yeeting
@@ -22,13 +23,17 @@ Other Traits:
 - June 4 - The Bird (Tailor) for being mean
 
 ## Powers & Limitations
+
 ### Telepathy
+
 The ability to transmit their thoughts to others. This can be done to a select few targets or to a general area. With practice, it can be weaponized by attempting to flood a mind with information.
 
 ### Telekinesis [Limited]
+
 The ability to move objects from a distance. This is limited to objects the size of a pillow and no heavier than a sandbag. This requires extreme mental focus when moving multiple objects (ie. the user can't divert their attention at all).
 
 # Backstory
+
 From the moment she was born, Sylvine was special. Most babies cry at birth, but while tears fell, Sylvine's crying was silent. Sylvine did not laugh nor scream. She was pronounced mute in the following days-and likely would remain that way for the rest of her life. Her parents dissapeared shortly after, leaving her a ward of the state.
 
 Sylvine's early schooling was misery. Unable to write well, she often had to resort to crude gestures to communicate-often, these gestures were misinterpreted or simply ignored. Her peers singled her out as an easy target. She would often be tricked, shoved, or pushed, and unable to convey what happened to her.
@@ -41,7 +46,7 @@ By 6th grade, Sylvine's belongings were no longer being stolen on the regular - 
 
 She had no friends and nobody to trust. She kept a diary in secret, hidden in random corners where she thought nobody wound find it. In it, she expressed her hopes for a happier life, her wishes for a friend, and the occasional crush that would likely never notice her.
 
-Sylvine took her poor standing harsly-there were often nights she would cry herself to sleep, and others where she wondered what she did wrong.  Throughout this, she took refuge in books and in nature. Reading was a way to escape to a better world, while nature was simply a way to ensure nobody bothered her.
+Sylvine took her poor standing harsly-there were often nights she would cry herself to sleep, and others where she wondered what she did wrong. Throughout this, she took refuge in books and in nature. Reading was a way to escape to a better world, while nature was simply a way to ensure nobody bothered her.
 
 By 8th grade, she learned to reduce her presence - while she was still in a room, she was less noticeable, less memorable. In time, her aggressors found new targets, and Syva could go to school without constant attacks on her self-confidence.
 

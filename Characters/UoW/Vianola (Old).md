@@ -1,36 +1,41 @@
 # Basic information
-Key|Value
--|-
-Name|Vianola Sylyra
-Nickname|Her friends call her Vi
-Gender|Female
-Race/Species|Human
-Age|19 (Physically 14)
-Sexual orientation|Does **Physically 14** mean nothing to you?
-Birthday|June 15
-Zodiac (Western)|Gemini
+
+Key                | Value
+------------------ | -------------------------------------------
+Name               | Vianola Sylyra
+Nickname           | Her friends call her Vi
+Gender             | Female
+Race/Species       | Human
+Age                | 19 (Physically 14)
+Sexual orientation | Does **Physically 14** mean nothing to you?
+Birthday           | June 15
+Zodiac (Western)   | Gemini
 
 ## Physical Traits
-Key|Value
--|-
-Height|5'0"
-Weight|110 lbs
-Body type|Slim
-Eye color|Molten Gold
-Hair color|Pale Silver
+
+Key        | Value
+---------- | -----------
+Height     | 5'0"
+Weight     | 110 lbs
+Body type  | Slim
+Eye color  | Molten Gold
+Hair color | Pale Silver
 
 # Mental
-Key|Value
--|-
-Likes|Risk-taking, Action movies, Utopian Books, Philosophy, Thinking about the future
-Dislikes|Injuries from taking risks, Politics, Herself, Difficulty, Thinking about her future, Being patronized, Condescending people
-Ideal Traits|Courage, Freedom, Idealists, Optimism, Self-acceptance, Compassion
-Personality|Kind and caring, Pacifist, Idealist
-Strengths|Imagination, Writing, Acting, Storytelling
-Weakness|Logic, Reason, Drawing, Pain tolerance, Self-control
+
+Key          | Value
+------------ | ----------------------------------------------------------------------------------------------------------------------------
+Likes        | Risk-taking, Action movies, Utopian Books, Philosophy, Thinking about the future
+Dislikes     | Injuries from taking risks, Politics, Herself, Difficulty, Thinking about her future, Being patronized, Condescending people
+Ideal Traits | Courage, Freedom, Idealists, Optimism, Self-acceptance, Compassion
+Personality  | Kind and caring, Pacifist, Idealist
+Strengths    | Imagination, Writing, Acting, Storytelling
+Weakness     | Logic, Reason, Drawing, Pain tolerance, Self-control
 
 ## Powers
+
 ### Immortality
+
 Vianola cannot die except by her own willing choice. In addition, she will not age past the age she acquired immortality. To die, Vianola must pass on the blessing or curse of immortality to another (there is no range, only that Vianola is acquainted with the recipient) - the recipient will be aware of their new status and how to pass it on, along with who passed to them. Vianola will then resume her mortal lifespan. The recipient and Vianola will be linked, with each always knowing the location of the other.
 
 It's important to note that Vianola does not have supernatural healing. Any injuries she sustains will heal at the rate a normal injury would. This means that some wounds that would not heal without Vianola seeking medical attention, and if a would leaves her unable to seek aid, she may be stuck waiting to be discovered by a passerby and hope they seek aid on her behalf. In addition, most modern pharmaceuticals work on her, meaning that she could use them to treat an illness, or that she could be drugged and locked in a box and sunk to the bottom of the ocean.
@@ -40,9 +45,11 @@ In addition, Vianola's pain tolerance is remarkably low. While she may not be ab
 For example, if Vianola was diced into tiny pieces and scattered to the wind, not only would she fall unconscious from the pain, but she would also not heal if somehow all the pieces were reunited - a healer would have to reconnect every nerve, every blood vessel, every bit of skin, and only then would she have a chance of healing.
 
 ### Lucid Dreamer
+
 Vianola can control her dreams to her liking, force herself to dream when she falls asleep, or wake from a dream at any time. In addition, she normally maintains a one-to-one ratio of dream time to real time, instead of a single small dream taking hours in reality.
 
 ## Backstory
+
 Vianola was raised in a small fishing town on the ocean, and while there was mostly enough food to go around, everybody had to play their part in order to eat. Nobody save children, the sick, the elderly, and those unfit to work were able to eat without doing their fair share - there was simply not enough food to go around otherwise.
 
 From a young age, Vianola imagined a better world, a world where nobody had to worry about their next meal, a world where everybody was safe, a world where everybody could be themselves. She took to writing this world in her diary, since nobody would entertain her ideals of a utopia.
