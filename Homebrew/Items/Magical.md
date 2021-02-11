@@ -1,8 +1,20 @@
+# Adamantine Rose (Requires Attunement)
+
+A small pin in the shape of a rose designed to be worn on clothing.
+
+Any time the wearer of this rose rolls to heal another creature, they may take the maximum possible value.
+
+In addition, this rose has 5 charges. As an action, the wearer of this rose may expend one charge to cast Regenerate.
+
+The rose regains 1d4 charges each day at dawn.
+
 # Magic Spatula (2 Charges, Requires Attunement)
 
 The Spatula can cast Catapult as a 4th level spell (DC 18), expending one charge. It regains one charge each day at dawn. Teleport 1/month, acts as Mage Hand, if it drops to 0 hp it reappears in the next cooks tools you use to prepare a meal
 
 # Necklace of Life (Requires Attunement)
+
+A vague predecessor to the Adamantine Rose.
 
 A pale adamantine necklace with an amethyst gemstone on the clasp. The necklace has 3 Charges. While wearing it, you can use a bonus action to expend 1 of its Charges to cast the Revivfy spell, or 3 of its Charges to cast the Raise Dead spell. It regains one charge every month at dawn on a holiday related to your deity. In addition, while wearing the necklace, all healing die are rolled with advantage. Lastly, the wearer may add 3 to their Charisma score, to a maximum of 22.
 
